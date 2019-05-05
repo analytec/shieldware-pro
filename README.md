@@ -6,3 +6,4 @@ Premium version of shieldware
 2. spreadsheet integration
 3. facebook integration
 4. generate unique api keys for each client
+5. scale graph y-axis appropriately
