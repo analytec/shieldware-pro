@@ -1,4 +1,6 @@
 from instagram_web_api import Client, ClientCompatPatch, ClientError, ClientLoginError
+
+
 import itertools
 import pprint
 pp = pprint.PrettyPrinter(indent=4)
